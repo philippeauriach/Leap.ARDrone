@@ -1,0 +1,5 @@
+{
+	"name": "leapdrone",
+	"main": "index.html",
+	"node-main": "socketserver.js"
+}

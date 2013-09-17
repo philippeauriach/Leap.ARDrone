@@ -1,0 +1,16 @@
+#leapDirectionContainer{
+	float: left;
+}
+
+#leapDirectionContainer table tr td{
+	text-align: center;
+}
+#leapDirectionContainer img{
+	width: 30px;
+	opacity: 0.3;
+}
+#takeOffButton, #landButton, #emergency{
+	width: 100px;
+	height: 100px;
+	float: right;
+}
