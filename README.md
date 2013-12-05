@@ -8,9 +8,9 @@
 - connect your computer to the drone's wifi
 
 ##How to use
-- in your browser, go to `http://localhost:8080/`
+- in your browser, go to `http://localhost:8080/` (I tested with Chrome, I suggest you try the same)
 - You will then see the following interface:
-![Interface](http://philippeauriach.me/img/leap_drone_interface.png)
+![Interface](http://philippeauriach.me/projects/imgs/leapdrone/github-interface.png)
 - When opening this interface, the drone should test its propellers.
 - Connect your Leapmotion controller to the computer if it's not done. You should see the directions moving when you move your hand above it.
 - No command will be send to the drone when it is in "safe mode" (understand : when your page is surrounded by a red border). To switch on and off from safe mode, press space. It will automatically go to safe mode if the hand leaves the leapmotion detection range.
